@@ -1,14 +1,23 @@
+<div align="center">
 
+# Hi there 👋
 
-Hi there 👋 !
--  I’m Marius, a web developer specializing in PHP backend.
-   I recently completed an intensive web development course at Turing Collage,
-   honing my skills in server-side logic and scalable applications.
+I’m Marius, a web developer specializing in **PHP backend**.  
+I recently completed an intensive web development course at **Turing Collage**,  
+honing my skills in **server-side logic** and **scalable applications**.
 
+<br>
+
+<!-- Fun/Cute coding GIF -->
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Coding Cat" width="300" />
+
+</div>
+
+---
 
 ## 🛠️ Technologies and Tools I Use
 
-<p align="left">
+<p align="center">
   <!-- PHP -->
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -39,7 +48,7 @@ Hi there 👋 !
   </a>
   <!-- Express -->
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <!-- Note: Devicon doesn't have a "colored" Express icon (it's usually monochrome). -->
+    <!-- Devicon doesn't have a "colored" Express icon, so it's usually monochrome. -->
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
   </a>
   <!-- MySQL -->
@@ -56,12 +65,21 @@ Hi there 👋 !
   </a>
 </p>
 
-
-
+---
 
 ## Let’s Connect
 
-[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail">](mailto:marius.viz@gmail.com)
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn">](https://www.linkedin.com/in/mariusvizbaras/)
+<p align="center">
+  <a href="mailto:marius.viz@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mariusvizbaras/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn"/>
+  </a>
+</p>
 
+<div align="center">
+  
 Thanks for stopping by—looking forward to collaborating on awesome projects!
+
+</div>
