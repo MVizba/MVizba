@@ -28,8 +28,7 @@ Hi there 👋 !
 
 ## Let’s Connect
 
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=gmail&color=red" alt="Gmail">](mailto:marius.viz@gmail.com)
-[<img src="https://img.shields.io/badge/-?style=for-the-badge&logo=linkedin&color=blue" alt="LinkedIn">](https://www.linkedin.com/in/mariusvizbaras/)
-
+[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Gmail">](mailto:marius.viz@gmail.com)
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn">](https://www.linkedin.com/in/mariusvizbaras/)
 
 Thanks for stopping by—looking forward to collaborating on awesome projects!
